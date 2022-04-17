@@ -64,3 +64,15 @@ http://cdn.adultiptv.net/compilation.m3u8
 http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="ADULTO",AdultIPTV.net Blonde
 http://cdn.adultiptv.net/blonde.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5MAzdlO.png" group-title="ADULTO", Filmon 1
+https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5MAzdlO.png" group-title="ADULTO", Filmon 2
+https://www.filmon.com/vr-streams/6155.high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/5MAzdlO.png" group-title="ADULTO", Filmon 3
+https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+
